@@ -1,4 +1,4 @@
-#Wed Dec 28 16:54:17 MSK 2022
+#Thu Jan 19 11:50:12 MSK 2023
 base.2=F\:\\MobileApp\\ForWidows\\Lab05-Map-sidorov493\\Lab05-Map-sidorov493\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\7\\classes.dex
 path.2=7/classes.dex
 base.1=F\:\\MobileApp\\ForWidows\\Lab05-Map-sidorov493\\Lab05-Map-sidorov493\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

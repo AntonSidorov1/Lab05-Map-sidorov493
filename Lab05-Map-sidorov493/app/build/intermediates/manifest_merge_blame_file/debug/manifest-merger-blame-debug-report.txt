@@ -36,62 +36,61 @@
 23-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:15:9-54
 24        android:supportsRtl="true"
 24-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:16:9-35
-25        android:testOnly="true"
-26        android:theme="@style/Theme.Lab05Mapsidorov493" >
-26-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:17:9-56
-27        <activity
-27-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:19:9-21:40
-28            android:name="com.example.lab05_map_sidorov493.Settings"
-28-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:20:13-37
-29            android:exported="false" />
-29-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:21:13-37
-30
-31        <meta-data
-31-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:23:9-25:48
-32            android:name="com.google.android.actions"
-32-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:24:13-54
-33            android:resource="@xml/myconfig" />
-33-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:25:13-45
-34
-35        <activity
-35-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:27:9-35:20
-36            android:name="com.example.lab05_map_sidorov493.MainActivity"
-36-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:28:13-41
-37            android:exported="true" >
-37-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:29:13-36
-38            <intent-filter>
-38-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:30:13-34:29
-39                <action android:name="android.intent.action.MAIN" />
-39-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:31:17-69
-39-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:31:25-66
-40
-41                <category android:name="android.intent.category.LAUNCHER" />
-41-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:33:17-77
-41-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:33:27-74
-42            </intent-filter>
-43        </activity>
-44
-45        <provider
-45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
-46            android:name="androidx.startup.InitializationProvider"
-46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
-47            android:authorities="com.example.lab05_map_sidorov493.androidx-startup"
-47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
-48            android:exported="false" >
-48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
-49            <meta-data
-49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
-50                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
-51                android:value="androidx.startup" />
-51-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
-52            <meta-data
-52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Anton\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
-53                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Anton\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
-54                android:value="androidx.startup" />
-54-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Anton\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
-55        </provider>
-56    </application>
-57
-58</manifest>
+25        android:theme="@style/Theme.Lab05Mapsidorov493" >
+25-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:17:9-56
+26        <activity
+26-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:19:9-21:40
+27            android:name="com.example.lab05_map_sidorov493.Settings"
+27-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:20:13-37
+28            android:exported="false" />
+28-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:21:13-37
+29
+30        <meta-data
+30-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:23:9-25:48
+31            android:name="com.google.android.actions"
+31-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:24:13-54
+32            android:resource="@xml/myconfig" />
+32-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:25:13-45
+33
+34        <activity
+34-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:27:9-35:20
+35            android:name="com.example.lab05_map_sidorov493.MainActivity"
+35-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:28:13-41
+36            android:exported="true" >
+36-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:29:13-36
+37            <intent-filter>
+37-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:30:13-34:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:31:17-69
+38-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:31:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:33:17-77
+40-->F:\MobileApp\ForWidows\Lab05-Map-sidorov493\Lab05-Map-sidorov493\app\src\main\AndroidManifest.xml:33:27-74
+41            </intent-filter>
+42        </activity>
+43
+44        <provider
+44-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+45            android:name="androidx.startup.InitializationProvider"
+45-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+46            android:authorities="com.example.lab05_map_sidorov493.androidx-startup"
+46-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+47            android:exported="false" >
+47-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+48            <meta-data
+48-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+49                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+49-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+50                android:value="androidx.startup" />
+50-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Anton\.gradle\caches\transforms-3\9f99c19470d8bf18ee15270d078c3173\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+51            <meta-data
+51-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Anton\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+52                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+52-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Anton\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+53                android:value="androidx.startup" />
+53-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Anton\.gradle\caches\transforms-3\a68586d9ac6fc4872d4884a947d1c1d5\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+54        </provider>
+55    </application>
+56
+57</manifest>

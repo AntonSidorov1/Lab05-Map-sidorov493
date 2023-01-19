@@ -22,7 +22,6 @@
         android:networkSecurityConfig="@xml/myconfig"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:testOnly="true"
         android:theme="@style/Theme.Lab05Mapsidorov493" >
         <activity
             android:name="com.example.lab05_map_sidorov493.Settings"
