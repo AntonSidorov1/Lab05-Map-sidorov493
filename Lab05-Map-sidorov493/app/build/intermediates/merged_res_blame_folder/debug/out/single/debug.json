@@ -1,0 +1,218 @@
+[
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_exit.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_exit.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_exit_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\exit_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_exit.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-anydpi-v26_exit.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-anydpi-v26\\exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_exit_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\exit_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\menu_main.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_exit_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\exit_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\xml_myconfig.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\xml\\myconfig.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_exit_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\exit_foreground.png"
+    },
+    {
+        "merged": "com.example.lab05_map_sidorov493.app-merged_res-29:/layout_activity_settings.xml.flat",
+        "source": "com.example.lab05_map_sidorov493.app-main-31:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_exit_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\exit_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_exit_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\exit_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_exit_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\exit_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_exit_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\exit_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\drawable_exit_background.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\drawable\\exit_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_exit.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\exit.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-mdpi_exit_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-mdpi\\exit_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-anydpi-v26_exit_round.xml.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-anydpi-v26\\exit_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_exit_foreground.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\exit_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-merged_res-29:\\mipmap-hdpi_exit.png.flat",
+        "source": "C:\\Users\\Anton\\.gradle\\daemon\\7.3.3\\com.example.lab05_map_sidorov493.app-main-31:\\mipmap-hdpi\\exit.png"
+    }
+]
